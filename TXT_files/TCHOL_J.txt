@@ -1,4 +1,4 @@
-Source file: /Users/toxal/Projects/readXPT/XPT_files/TCHOL_J.xpt
+Source file: Source file: I overwrote this to hide my files
 Rows: 7435
 Columns: 3
 
